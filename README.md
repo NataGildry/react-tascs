@@ -1,2 +1,2 @@
 # react-tascs
-Tascs from Universiry
+Tascs from University
